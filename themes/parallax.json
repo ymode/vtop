@@ -6,6 +6,7 @@
 	},
 	"chart": {
 		"fg": "#a537fd",
+		"bg": "#a537fd",
 		"border": {
 			"type": "line",
 			"fg": "#00ebbe"
